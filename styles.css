@@ -1,0 +1,18 @@
+body {
+  font-size: 28px;
+  line-height: 50px;
+  font-family: 'Bebas Neue', cursive;
+  background-image: url(img_skyline.jpg);
+  background-blend-mode: multiply;
+
+  color: rgb(17, 8, 8);
+}
+.black-border {
+  font-size: 28px;
+  line-height: 50px;
+  font-family: 'Bebas Neue', cursive;
+  border: 5px solid rgb(89, 176, 182);
+}
+#green-background {
+  background-color: rgb(174, 206, 221);
+}
